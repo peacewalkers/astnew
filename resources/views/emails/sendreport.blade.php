@@ -159,7 +159,7 @@
                                 <div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:0px; padding-bottom:0px; padding-right: 0px; padding-left: 0px;">
                                     <!--<![endif]-->
                                     <div align="center" class="img-container center autowidth fullwidth">
-                                        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="" align="center"><![endif]--><img align="center" alt="Image" border="0" class="center autowidth fullwidth" src="images/Top.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 650px; display: block;" title="Image" width="650"/>
+                                        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="" align="center"><![endif]-->
                                         <!--[if mso]></td></tr></table><![endif]-->
                                     </div>
                                     <!--[if (!mso)&(!IE)]><!-->
@@ -191,9 +191,7 @@
                                     <!--[if mso]></td></tr></table><![endif]-->
                                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 40px; padding-left: 40px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
                                     <div style="color:#555555;font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.5;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px;">
-                                        <div style="font-size: 14px; line-height: 1.5; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 21px;">
-                                            <p style="font-size: 14px; line-height: 1.5; text-align: center; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; word-break: break-word; mso-line-height-alt: 21px; margin: 0;">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                                        </div>
+
                                     </div>
                                     <!--[if mso]></td></tr></table><![endif]-->
                                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
@@ -206,12 +204,13 @@
                                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 40px; padding-left: 40px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
                                     <div style="color:#555555;font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.5;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px;">
                                         <div style="font-size: 14px; line-height: 1.5; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 21px;">
-                                            <p style="font-size: 14px; line-height: 1.5; text-align: center; word-break: break-word; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 21px; margin: 0;">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book</p>
+                                            <p style="font-size: 14px; line-height: 1.5; text-align: center; word-break: break-word; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 21px; margin: 0;">
+                                                {{ $data['suggestions'] }}</p>
                                         </div>
                                     </div>
                                     <!--[if mso]></td></tr></table><![endif]-->
                                     <div align="center" class="img-container center autowidth fullwidth" style="padding-right: 0px;padding-left: 0px;">
-                                        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img align="center" alt="Image" border="0" class="center autowidth fullwidth" src="images/Btm.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 650px; display: block;" title="Image" width="650"/>
+                                        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]-->
                                         <!--[if mso]></td></tr></table><![endif]-->
                                     </div>
                                     <!--[if (!mso)&(!IE)]><!-->
@@ -250,7 +249,7 @@
                                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
                                     <div style="color:#555555;font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
                                         <div style="line-height: 1.2; font-size: 12px; color: #555555; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 14px;">
-                                            <p style="font-size: 14px; line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0;">Our Astrologer will be calling you shortly to discuss your report with you in detail. You can get your questions clarified during the  conversation.</p>
+                                            <p style="font-size: 14px; line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0;">.</p>
                                         </div>
                                     </div>
                                     <!--[if mso]></td></tr></table><![endif]-->
@@ -360,6 +359,7 @@
                                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
                                     <div style="color:#555555;font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
                                         <div style="line-height: 1.2; font-size: 12px; color: #555555; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 14px;">
+
                                             <p style="font-size: 17px; line-height: 1.2; word-break: break-word; text-align: center; mso-line-height-alt: 20px; mso-ansi-font-size: 18px; margin: 0;"><span style="font-size: 17px; mso-ansi-font-size: 18px;">Please consider visiting our other services provided by our LifeGuide services group.</span></p>
                                         </div>
                                     </div>
@@ -385,13 +385,13 @@
                                 <div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:0px; padding-bottom:0px; padding-right: 0px; padding-left: 0px;">
                                     <!--<![endif]-->
                                     <div align="center" class="img-container center autowidth fullwidth">
-                                        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="" align="center"><![endif]--><img align="center" alt="Image" border="0" class="center autowidth fullwidth" src="images/Top.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 650px; display: block;" title="Image" width="650"/>
+                                        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="" align="center"><![endif]-->
                                         <!--[if mso]></td></tr></table><![endif]-->
                                     </div>
                                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 20px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Tahoma, Verdana, sans-serif"><![endif]-->
                                     <div style="color:#038c01;font-family:'Roboto', Tahoma, Verdana, Segoe, sans-serif;line-height:1.2;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:10px;">
                                         <div style="line-height: 1.2; font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif; font-size: 12px; color: #038c01; mso-line-height-alt: 14px;">
-                                            <p style="line-height: 1.2; font-size: 26px; word-break: break-word; text-align: right; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 31px; margin: 0;"><span style="font-size: 26px;"><strong><span style="font-size: 26px;">InvestorsLifeGuide</span></strong></span></p>
+                                            <p style="line-height: 1.2; font-size: 26px; word-break: break-word; text-align: center; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 31px; margin: 0;"><span style="font-size: 26px;"><strong><span style="font-size: 26px;">InvestorsLifeGuide</span></strong></span></p>
                                         </div>
                                     </div>
                                     <!--[if mso]></td></tr></table><![endif]-->
@@ -417,7 +417,7 @@
                                     <!--<![endif]-->
                                     <div align="center" class="img-container center autowidth fullwidth" style="padding-right: 15px;padding-left: 30px;">
                                         <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 15px;padding-left: 30px;" align="center"><![endif]-->
-                                        <div style="font-size:1px;line-height:15px"> </div><img align="center" alt="Image" border="0" class="center autowidth fullwidth" src="https://astrolifeguide.com/astrolifeguide/img/brand/investorslife.svg" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 161px; display: block;" title="Image" width="161"/>
+                                        <div style="font-size:1px;line-height:15px"> </div><img align="center" alt="Image" border="0" class="center autowidth fullwidth" src="https://astrolifeguide.com/astrolifeguide/img/brand/investorslife.svg" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 161px; margin-top:-40px; display: block;" title="Image" width="161"/>
                                         <div style="font-size:1px;line-height:10px"> </div>
                                         <!--[if mso]></td></tr></table><![endif]-->
                                     </div>
@@ -436,12 +436,12 @@
                                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 30px; padding-left: 10px; padding-top: 0px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
                                     <div style="color:#555555;font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.5;padding-top:0px;padding-right:30px;padding-bottom:10px;padding-left:10px;">
                                         <div style="font-size: 14px; line-height: 1.5; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 21px;">
-                                            <p style="font-size: 12px; line-height: 1.5; text-align: left; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; word-break: break-word; mso-line-height-alt: 18px; margin: 0;"><span style="font-size: 12px;">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.</span></p>
+                                            <p style="font-size: 14px; line-height: 1.5; text-align: left; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; word-break: break-word; mso-line-height-alt: 18px; margin: 0;"><span style="font-size: 14px;">investors, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.</span></p>
                                         </div>
                                     </div>
                                     <!--[if mso]></td></tr></table><![endif]-->
                                     <div align="center" class="button-container" style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
-                                        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px" align="center"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://investorslifeguide.com" style="height:31.5pt; width:123.75pt; v-text-anchor:middle;" arcsize="10%" stroke="false" fillcolor="#3AAEE0"><w:anchorlock/><v:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:Arial, sans-serif; font-size:16px"><![endif]--><a href="http://investorslifeguide.com" style="-webkit-text-size-adjust: none; text-decoration: none; display: inline-block; color: #ffffff; background-color: #3AAEE0; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; width: auto; width: auto; border-top: 1px solid #3AAEE0; border-right: 1px solid #3AAEE0; border-bottom: 1px solid #3AAEE0; border-left: 1px solid #3AAEE0; padding-top: 5px; padding-bottom: 5px; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none; word-break: keep-all;" target="_blank"><span style="padding-left:20px;padding-right:20px;font-size:16px;display:inline-block;"><span style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">Know More</span></span></a>
+                                        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px" align="center"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://investorslifeguide.com" style="height:31.5pt; width:123.75pt; v-text-anchor:middle;" arcsize="10%" stroke="false" fillcolor="#3AAEE0"><w:anchorlock/><v:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:Arial, sans-serif; font-size:16px"><![endif]--><a href="http://investorslifeguide.com" style="-webkit-text-size-adjust: none; text-decoration: none; display: inline-block; color: #ffffff; background-color: #f05f1e; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; width: auto; width: auto; border-top: 1px solid #038c01; border-right: 1px solid #038c01; border-bottom: 1px solid #038c01; border-left: 1px solid #038c01; padding-top: 2px; padding-bottom: 2px; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none; word-break: keep-all;" target="_blank"><span style="padding-left:20px;padding-right:20px;font-size:16px;display:inline-block;"><span style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">Know More</span></span></a>
                                         <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
                                     </div>
                                     <!--[if (!mso)&(!IE)]><!-->
@@ -465,13 +465,13 @@
                                 <div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:0px; padding-bottom:0px; padding-right: 0px; padding-left: 0px;">
                                     <!--<![endif]-->
                                     <div align="center" class="img-container center autowidth fullwidth" style="padding-right: 0px;padding-left: 0px;">
-                                        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img align="center" alt="Image" border="0" class="center autowidth fullwidth" src="images/Btm.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 650px; display: block;" title="Image" width="650"/>
+                                        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]-->
                                         <!--[if mso]></td></tr></table><![endif]-->
                                     </div>
                                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 20px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Tahoma, Verdana, sans-serif"><![endif]-->
                                     <div style="color:#038c01;font-family:'Roboto', Tahoma, Verdana, Segoe, sans-serif;line-height:1.2;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:10px;">
                                         <div style="line-height: 1.2; font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif; font-size: 12px; color: #038c01; mso-line-height-alt: 14px;">
-                                            <p style="line-height: 1.2; text-align: left; font-size: 26px; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; word-break: break-word; mso-line-height-alt: 31px; margin: 0;"><span style="font-size: 26px;"><strong><span style="font-size: 26px;">JewelLifeGuide</span></strong></span></p>
+                                            <p style="line-height: 1.2; text-align: center; font-size: 26px; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; word-break: break-word; mso-line-height-alt: 31px; margin: 0;"><span style="font-size: 26px;"><strong><span style="font-size: 26px;">JewelLifeGuide</span></strong></span></p>
                                         </div>
                                     </div>
                                     <!--[if mso]></td></tr></table><![endif]-->
@@ -501,19 +501,17 @@
                                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 30px; padding-left: 10px; padding-top: 0px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
                                     <div style="color:#555555;font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.5;padding-top:0px;padding-right:30px;padding-bottom:10px;padding-left:10px;">
                                         <div style="font-size: 14px; line-height: 1.5; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 21px;">
-                                            <p style="font-size: 12px; line-height: 1.5; text-align: left; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; word-break: break-word; mso-line-height-alt: 18px; margin: 0;"><span style="font-size: 12px;">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.</span></p>
+                                            <p style="font-size: 14px; line-height: 1.5; text-align: left; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; word-break: break-word; mso-line-height-alt: 18px; margin: 0;"><span style="font-size: 14px;">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.</span></p>
                                         </div>
                                     </div>
                                     <!--[if mso]></td></tr></table><![endif]-->
                                     <div align="center" class="button-container" style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
-                                        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px" align="center"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="#" style="height:31.5pt; width:123.75pt; v-text-anchor:middle;" arcsize="10%" stroke="false" fillcolor="#3AAEE0"><w:anchorlock/><v:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:Arial, sans-serif; font-size:16px"><![endif]--><a href="#" style="-webkit-text-size-adjust: none; text-decoration: none; display: inline-block; color: #ffffff; background-color: #3AAEE0; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; width: auto; width: auto; border-top: 1px solid #3AAEE0; border-right: 1px solid #3AAEE0; border-bottom: 1px solid #3AAEE0; border-left: 1px solid #3AAEE0; padding-top: 5px; padding-bottom: 5px; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none; word-break: keep-all;" target="_blank"><span style="padding-left:20px;padding-right:20px;font-size:16px;display:inline-block;"><span style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">Know More</span></span></a>
+                                        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px" align="center"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="#" style="height:31.5pt; width:123.75pt; v-text-anchor:middle;" arcsize="10%" stroke="false" fillcolor="#3AAEE0"><w:anchorlock/><v:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:Arial, sans-serif; font-size:16px"><![endif]--><a href="#" style="-webkit-text-size-adjust: none; text-decoration: none; display: inline-block; color: #ffffff; background-color: #f05f1e; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; width: auto; width: auto; border-top: 1px solid #038c01; border-right: 1px solid #038c01; border-bottom: 1px solid #038c01; border-left: 1px solid #038c01; padding-top: 2px; padding-bottom: 2px; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none; word-break: keep-all;" target="_blank"><span style="padding-left:20px;padding-right:20px;font-size:16px;display:inline-block;"><span style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">Know More</span></span></a>
                                         <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
                                     </div>
                                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 30px; padding-left: 10px; padding-top: 0px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
                                     <div style="color:#555555;font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.5;padding-top:0px;padding-right:30px;padding-bottom:10px;padding-left:10px;">
-                                        <div style="font-size: 14px; line-height: 1.5; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 21px;">
-                                            <p style="font-size: 12px; line-height: 1.5; text-align: left; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; word-break: break-word; mso-line-height-alt: 18px; margin: 0;"><span style="font-size: 12px;">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.</span></p>
-                                        </div>
+
                                     </div>
                                     <!--[if mso]></td></tr></table><![endif]-->
                                     <!--[if (!mso)&(!IE)]><!-->
@@ -530,7 +528,7 @@
                                     <!--<![endif]-->
                                     <div align="center" class="img-container center autowidth fullwidth" style="padding-right: 15px;padding-left: 30px;">
                                         <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 15px;padding-left: 30px;" align="center"><![endif]-->
-                                        <div style="font-size:1px;line-height:15px"> </div><img align="center" alt="Image" border="0" class="center autowidth fullwidth" src="https://astrolifeguide.com/astrolifeguide/img/brand/jewellifeguide.svg" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 171px; display: block;" title="Image" width="171"/>
+                                        <div style="font-size:1px;line-height:15px"> </div><img align="center" alt="Image" border="0" class="center autowidth fullwidth" src="https://astrolifeguide.com/astrolifeguide/img/brand/jewellifeguide.svg" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 171px; margin-top: -50px; display: block;" title="Image" width="171"/>
                                         <div style="font-size:1px;line-height:10px"> </div>
                                         <!--[if mso]></td></tr></table><![endif]-->
                                     </div>
@@ -587,7 +585,7 @@
                         <div class="col num12" style="min-width: 320px; max-width: 650px; display: table-cell; vertical-align: top; width: 650px;">
                             <div style="width:100% !important;">
                                 <!--[if (!mso)&(!IE)]><!-->
-                                <div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:35px; padding-bottom:25px; padding-right: 25px; padding-left: 25px;">
+                                <div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 25px; padding-left: 25px;">
                                     <!--<![endif]-->
                                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
                                     <div style="color:#555555;font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
